@@ -1,0 +1,3 @@
+-16	-16	5	-16	-17	13	11	-19	9	26	
+Srednne orefm > 0 = 12
+Srednne orefm < 0 = -16
