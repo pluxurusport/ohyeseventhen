@@ -1,0 +1,38 @@
+
+                        Sorted BookPrice
+
+The name of Book	   BookLength	      BookPrice
+	MZnIm			31		   443
+	gGxRP			38		   397
+	tkJPR			12		   383
+	xgGBw			34		   352
+	nqDux			18		   345
+	ysyYc			22		   338
+	asvws			16		   290
+	nZKyC			19		   276
+	eViKe			36		   255
+	YlNlf			28		   212
+	xTLSg			19		   191
+	VysTm			33		   191
+	fircv			11		   141
+	qghUm			21		   117
+	nfOzv			32		   117
+
+                 Sorted BookLength
+
+The name of Book	   BookLength	      BookPrice
+	gGxRP			38		   397
+	eViKe			36		   255
+	xgGBw			34		   352
+	VysTm			33		   191
+	nfOzv			32		   117
+	MZnIm			31		   443
+	YlNlf			28		   212
+	ysyYc			22		   338
+	qghUm			21		   117
+	nZKyC			19		   276
+	xTLSg			19		   191
+	nqDux			18		   345
+	asvws			16		   290
+	tkJPR			12		   383
+	fircv			11		   141
